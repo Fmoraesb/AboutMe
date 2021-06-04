@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="text_nome">Fernando Moraes Bastos</string>
+    <string name="estrela_amarela">Estrela Amarela</string>
+    <string name="bio">Olá, meu nome é Fernando Moraes Bastos!
+        \n\nEstou sempre buscando novos conhecimentos, além de evoluir os que eu já possuo.
+        \n\nMeu GitHub é <a href="https://github.com/Fmoraesb">https://github.com/Fmoraesb</a> e
+        eu sempre estou inserindo os projetos que estou desenvolvendo, estudos que tenho feito e
+        exercicios de cursos que fiz.
+        \n\nEstou buscando uma colocação na area de desenvolvimento mobile, seja como junior ou como
+        estagiário, porém não me oponho a ir para outra área de desenvolvimento, podendo assim
+        desenvolver mais conhecimentos.
+
+
+    </string>
+</resources>
